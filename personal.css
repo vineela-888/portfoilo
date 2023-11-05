@@ -1,0 +1,59 @@
+.top-bg{
+    background-color: rgb(185, 218, 229);
+    background-size: cover;
+    width: 100vw;
+    height: 6vh;
+}
+.icon{
+    height: 30px;
+    width: 30px;
+    margin-left: 50px;
+    margin-top: 3px;
+}
+.top-ele{
+    padding-left: 35px;
+    color: black;
+    font-weight: 400;
+    font-size: 18px;
+}
+.sec-bg{
+    background-color: black;
+    background-size: cover;
+    height: 93vh;
+    width: 100vw;
+}
+.profile1{
+    width: 400px;
+    height: 400px;
+    margin-left: 150px;
+    margin-top: 120px;
+}
+.name1{
+    font-size: 30px;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 100px;
+    margin-top: 150px;
+    font-weight: 600;
+}
+.name2{
+    font-size: 23px;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 110px;   
+}
+.about-bg{
+    background-color: black;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+.about-head{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding-top: 10px;
+    text-decoration: underline;
+}
